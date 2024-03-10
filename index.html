@@ -333,7 +333,7 @@ div.tocify {
         <li>
   <a href="https://scholar.google.com/citations?user=C6dA9NAAAAAJ&hl=zh-CN">
     <span class="ai ai-google-scholar ai-lg"></span>
-     
+
   </a>
 </li>
 <li>
@@ -520,8 +520,8 @@ Research Experience
 </p>
 </div>
 </div> -->
-
 <!--
+
 <div class="row">
 <h1 class="optima" id="projects">
 Research Projects 
@@ -600,15 +600,25 @@ problem in its matching process. In this project, we intend to incorporate a gra
 <img src="images/project_superglue.png" width="180">
 </td>
 </tr>
-  
+
 <p></p>
 
 </tbody>
 </table>
 
-
 </div>
 -->
+
+<div class="row">
+<h1 class="optima" id="contact">
+Program
+</h1>
+</div>
+<div class="row" style="margin-top:-5px">
+<p>Student Class Exploration and Innovation Program, <strong>First Leader</strong>: 2024.1.1-2025.12.31</p>
+</div>
+
+
 
 <div class="row">
 <h1 class="optima" id="contact">
@@ -760,7 +770,7 @@ $(document).ready(function ()  {
     $('div.section.toc-ignore')
         .removeClass('toc-ignore')
         .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
+    
     // establish options
     var options = {
       selectors: "h1,h2,h3",
@@ -774,7 +784,7 @@ $(document).ready(function ()  {
     };
     options.showAndHide = true;
     options.smoothScroll = true;
-
+    
     // tocify
     var toc = $("#TOC").tocify(options).data("toc-tocify");
 });
