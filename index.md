@@ -13,7 +13,10 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- [**<font color='red'>HOT</font>**] One project has been approved for establishment (Director, 2024.1.1 - 2025.12.31), No. xzy022024056. 
+- [2024-03] One project has been approved for establishment (Director, 2024.1.1 - 2025.12.31), No. xzy022024056. 
+- [2021-01] One first-authored paper is accepted by **Signal Processing**.
+- [2020-06] One first-authored paper is accepted by **IJNS**.
+- [2020-03] One first-authored paper is accepted by **KBS**.
 
 
 ---
