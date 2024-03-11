@@ -13,7 +13,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- [**<font color='red'>HOT</font>**] One project has been approved for establishment, No. xzy022024056.
+- [**<font color='red'>HOT</font>**] One project has been approved for establishment (Director, 2024.1.1 - 2025.12.31), No. xzy022024056. 
 
 
 ---
@@ -24,7 +24,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ## <u> Selected Publications </u>
 
-
+---
 
 # Professional Services
 
