@@ -27,6 +27,16 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ## <u> Selected Publications </u>
 
+1. ***Multi-focus image fusion based on dynamic threshold neural P systems and surfacelet transform.***
+
+* **Bo Li**, Hong Peng, Jun Wang, Xiangnian Huang 
+* Accepted by **KBS 2020**  
+  [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0950705120301854), [*[Code]*](https://github.com/MorvanLi/DTNP-ST)
+
+
+
+
+
 ---
 
 # Professional Services
