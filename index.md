@@ -33,9 +33,11 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Accepted by **KBS 2020**  
   [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0950705120301854), [*[Code]*](https://github.com/MorvanLi/DTNP-ST)
 
+2. ***Medical image fusion method based on coupled neural P systems in nonsubsampled shearlet transform domain.***
 
-
-
+* **Bo Li**,  Peng Hong, Xiaohui Luo, Jun Wang, Mario J. Pérez-Jiménez, Agustín Riscos-Núñez.
+* Accepted by **IJNS 2020**  
+  [*[Paper]*](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500501), [*[Code]*](https://github.com/MorvanLi/CNP-MIF)
 
 ---
 
