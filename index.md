@@ -54,3 +54,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * Knowledge-Based Systems (KBS) 
 
+### Conferences
+
+* ACM Multimedia (ACM MM 2024)
