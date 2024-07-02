@@ -1,6 +1,6 @@
 
 
-My name is **Bo Li** (李波). I am currently a PhD student in [School of Computer Science  and Technology](http://www.cs.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4).
+My name is **Bo Li** (李波). I am currently a PhD student in [School of Computer Science  and Technology](http://www.cs.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4) and co-supervised by [A.P Lingling Zhang](https://gr.xjtu.edu.cn/en/web/zhanglling).
 
 My research lies at **spiking neural network** , **spiking neural P systems**  and **image fusion**.
 
@@ -13,7 +13,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- [2024-03] Fundamental Research Funds for the Central Universities (2024.1.1 - 2025.12.31), No. xzy022024056. 
+- [2024-03] Fundamental Research Funds for the Central Universities :tada::tada::tada:(2024.1.1 - 2025.12.31) , No. xzy022024056. **Bo Li, Wenjun Wu, Weiping Fu, Jun Liu**
 - [2021-01] One first-authored paper is accepted by **Signal Processing**.
 - [2020-06] One first-authored paper is accepted by **IJNS**.
 - [2020-03] One first-authored paper is accepted by **KBS**.
