@@ -27,22 +27,19 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=C6dA9NAAAAAJ&hl=zh-CN).
 
 ## <u> Selected Publications </u>
-1. ***[Multi-focus image fusion with parameter adaptive dual channel dynamic threshold neural P systems](https://www.sciencedirect.com/science/article/pii/S0893608024005276).***
+1. ***Multi-focus image fusion with parameter adaptive dual channel dynamic threshold neural P systems.***
    * **Bo Li**, Lingling Zhang, Jun Liu, Hong Peng
    
    * Accepted by **NN 2024**  
      [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0893608024005276), [*[Code]*](https://github.com/MorvanLi/MFIF-PADCDTNP)
-
 2.  ***Multi-focus image fusion based on dynamic threshold neural P systems and surfacelet transform.***
    * **Bo Li**, Hong Peng, Jun Wang, Xiangnian Huang 
-   
    * Accepted by **KBS 2020**  
      [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0950705120301854), [*[Code]*](https://github.com/MorvanLi/DTNP-ST)
-   
+
 3. ***Medical image fusion method based on coupled neural P systems in nonsubsampled shearlet transform domain.***
-
    * **Bo Li**,  Peng Hong, Xiaohui Luo, Jun Wang, Mario J. Pérez-Jiménez, Agustín Riscos-Núñez.
-
+   
    * Accepted by **IJNS 2020**  
      [*[Paper]*](https://www.worldscientific.com/doi/abs/10.1142/S0129065720500501), [*[Code]*](https://github.com/MorvanLi/CNP-MIF)
 
