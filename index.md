@@ -13,11 +13,12 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- [2024-08] One first-authored paper on spiking neural P systems is accepted by **Neural Networks  (<font color='red'>CCF B</font>)**. 
-- [2024-03] Fundamental Research Funds for the Central Universities (Xi'an Jiaotong University, 2024.1.1 - 2025.12.31) , No. xzy022024056. 
-- [2021-01] One first-authored paper is accepted by **Signal Processing**.
-- [2020-06] One first-authored paper is accepted by **IJNS**.
-- [2020-03] One first-authored paper is accepted by **KBS**.
+- [2025-04] One first-authored paper is accepted by ***IEEE Transactions on Multimedia***. 
+- [2024-08] One first-authored paper on spiking neural P systems is accepted by ***Neural Networks***. 
+- [2024-03] Fundamental Research Funds for the Central Universities (Xi'an Jiaotong University, 2024.1.1 - 2025.12.31) , ***No. xzy022024056***. 
+- [2021-01] One first-authored paper is accepted by ***Signal Processing***.
+- [2020-06] One first-authored paper is accepted by ***International Journal of Neural Systems***.
+- [2020-03] One first-authored paper is accepted by ***Knowledge-Based Systems***.
 
 
 ---
@@ -48,7 +49,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 # Professional Services
 
-## <u> PC Member | Reviewer </u>
+## <u> Reviewer </u>
 
 ### Journals 
 
