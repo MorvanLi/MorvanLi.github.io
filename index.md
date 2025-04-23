@@ -13,7 +13,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- <font color='red'>[2025-04]</font> One first-authored paper is accepted by **IEEE Transactions on Multimedia**. 
+- [2025-04] One first-authored paper is accepted by **IEEE Transactions on Multimedia**. 
 - [2024-08] One first-authored paper on spiking neural P systems is accepted by **Neural Networks**. 
 - [2024-03] Fundamental Research Funds for the Central Universities (Xi'an Jiaotong University, 2024.1.1 - 2025.12.31) , **No. xzy022024056**. 
 - [2021-01] One first-authored paper is accepted by **Signal Processing**.
