@@ -28,6 +28,11 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=C6dA9NAAAAAJ&hl=zh-CN).
 
 ## <u> Selected Publications </u>
+1. ***When Multi-focus Image Fusion Meets Nonlinear Spiking Neural P Systems.***
+   * **Bo Li**, Lingling Zhang, Tingting Bao, Yunkuo Lei, Xiaoqing Zhang, Jun Liu
+   
+   * Accepted by **TMM 2025**  
+   
 1. ***Multi-focus image fusion with parameter adaptive dual channel dynamic threshold neural P systems.***
    * **Bo Li**, Lingling Zhang, Jun Liu, Hong Peng
    
