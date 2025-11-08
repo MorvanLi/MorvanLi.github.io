@@ -13,6 +13,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
+- [2025-11] Two papers are accepted by **AAAI2026  (<font color='red'> 1 Oral </font> & 1 Poster)**. 
 - [2025-04] One first-authored paper is accepted by **IEEE Transactions on Multimedia**. 
 - [2024-08] One first-authored paper on spiking neural P systems is accepted by **Neural Networks**. 
 - [2024-03] Fundamental Research Funds for the Central Universities (Xi'an Jiaotong University, 2024.1.1 - 2025.12.31) , **No. xzy022024056**. 
@@ -32,6 +33,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
    * **Bo Li**, Lingling Zhang, Tingting Bao, Yunkuo Lei, Xiaoqing Zhang, Jun Liu
    
    * Accepted by **IEEE TMM 2025**  
+   * [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/11208806), [*[Code]*](https://github.com/MorvanLi/)
    
 1. ***Multi-focus image fusion with parameter adaptive dual channel dynamic threshold neural P systems.***
    * **Bo Li**, Lingling Zhang, Jun Liu, Hong Peng
