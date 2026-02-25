@@ -13,6 +13,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
+- [<font color='red'>2026-2</font>] One first-authored paper is accepted by **CVPR2026**. 
 - [2025-11] Two papers are accepted by **AAAI2026  (<font color='red'> 1 Oral </font> & 1 Poster)**. 
 - [2025-04] One first-authored paper is accepted by **IEEE Transactions on Multimedia**. 
 - [2024-08] One first-authored paper on spiking neural P systems is accepted by **Neural Networks**. 
