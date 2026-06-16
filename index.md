@@ -13,10 +13,11 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- [<font color='red'>2026-02</font>] One first-authored paper is accepted by **CVPR2026**. 
-- [2025-11] Two papers are accepted by **AAAI2026  (<font color='red'> 1 Oral </font> & 1 Poster)**. 
-- [2025-04] One first-authored paper is accepted by **IEEE Transactions on Multimedia**. 
-- [2024-08] One first-authored paper on spiking neural P systems is accepted by **Neural Networks**. 
+- [<font color='red'>2026-05</font>] One co-authored paper is accepted by **Information and Computation (<font color='blue'>CCF A</font>)** .
+- [2026-02] One first-authored paper is accepted by **CVPR2026 (<font color='blue'>CCF A</font>)**. 
+- [2025-11] Two papers are accepted by **AAAI2026  (<font color='red'> 1 Oral </font> & 1 Poster) (<font color='blue'>CCF A</font>)**. 
+- [2025-04] One first-authored paper is accepted by **IEEE Transactions on Multimedia (<font color='blue'>CCF A</font>)**. 
+- [2024-08] One first-authored paper is accepted by **Neural Networks (<font color='blue'>CCF B</font>)**. 
 - [2024-03] Fundamental Research Funds for the Central Universities (Xi'an Jiaotong University, 2024.1.1 - 2025.12.31) , **No. xzy022024056**. 
 - [2021-01] One first-authored paper is accepted by **Signal Processing**.
 - [2020-06] One first-authored paper is accepted by **International Journal of Neural Systems**.
@@ -73,4 +74,4 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ### Conferences
 
-* ACM Multimedia (ACM MM 2024)
+* ACM Multimedia (ACM MM 2024, 2026)
